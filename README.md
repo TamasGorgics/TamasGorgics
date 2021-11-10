@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working at **Volvo Cars**
 
-- 🌱 I’m currently learning **some DevOps stuff**
+- 🌱 I’m currently learning **some SRE stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
