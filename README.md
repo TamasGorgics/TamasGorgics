@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamás</h1>
 <h3 align="center">A passionate backend software engineer</h3>
 
-- 💻 I’m currently working at **Volvo Cars**
+- 💻 I’m currently working at **Juni**
 
 - 🌱 I’m currently learning **some SRE stuff**
 
